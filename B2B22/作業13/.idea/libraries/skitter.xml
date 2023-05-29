@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="skitter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/skitter.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
